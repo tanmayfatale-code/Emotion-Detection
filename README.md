@@ -33,3 +33,8 @@ Vectorize the text using CountVectorizer
 Train the Naive Bayes model
 
 Test predictions
+
+### 🖼️ Example Output
+Here’s a sample prediction made by the model:
+
+![Model Output](emotion detection output.png)
