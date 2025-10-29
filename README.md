@@ -37,4 +37,4 @@ Test predictions
 ### 🖼️ Example Output
 Here’s a sample prediction made by the model:
 
-![Model Output](emotion detection output.png)
+![Model Output](emotion%20detection%20output.png)
